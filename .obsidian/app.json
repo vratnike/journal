@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "media",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "atoms",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  }
+}

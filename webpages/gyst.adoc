@@ -1,0 +1,62 @@
+= Get Your Shit Together
+Vratnik (vratnik@nowhere)
+petrichor.moe
+:doctype: book
+:toc: left
+:toclevels: 5
+:icons: font
+:stem: latexmath
+:stylesheet: ../stylesheets/dark.css
+:quick-uri: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+==  Money
+
+=== 2024-10
+
+==== Upcoming Debits
+
+* [.line-through]#Car insurance: -120#
+* Server Bill: -40
+* [.line-through]#Debt to jdstroy (due Oct 10): -100#
+* [.line-through]#Line of credit with bank: -50#
+* [.line-through]#Domain name: -20#
+* Remaining Car Note: -600
+
+==== Upcoming Credits
+
+* Income: +1500
+* [.line-through]#Magic Cards: ????, maybe ~$60#
+* [.line-through]#Additional loan from NoNickname: +150#
+
+== Shit that Needs Doing
+
+=== Beginning of Autumn
+* Health/QoL
+** [.line-through]#Hollow out my car and set up my bed in it (probably doing this before 10/9 is over)#
+* Financial
+** Do jdstroy's bank bonii
+*** link:https://www.schwab.com/investing-starter-kit[Schwab], free $101 for a $50 deposit
+*** link:https://www.truist.com/checking/one-simple-choice?cid=AF-IMTE-022724004&CampIDMaj=AAAXF&CampIDMin=AGZ[Truist], $50 deposit + DD to get $400 and a $100 line of credit
+** Submit change of address to USPS
+** Request IRS transcripts to new address, follow up with jdstroy after I receive them (figure out if it can be done digitally)
+** Update my address on my Driver's License
+* Skill related
+** Talk to a counselor somewhere to figure out what the cheapest associate's to bachelor's pathway is for me and make a study plan based on that
+** Start reviewing test materials for college courses to test out of through link:https://clep.collegeboard.org[CLEP?]
+
+=== Late Autumn, Early Winter
+
+* Start taking tests for college credits (Do sooner if possible)
+* Health Related (Do sooner if possible)
+** See a fucking optometrist and get new glasses
+** Get back on Delta's dental insurance and see a dentist
+** Look into health insurance when open enrollment happens
+* Make sure that I've paid NoNickname back in full (2795,04 PLN (~$710.40 USD))
+
+=== Winter, Early Spring
+
+* Have a Holly Jolly Christmas and enjoy being debt free?
+
+=== Spring Proper
+
+* Start working on whatever classes I need that can't be tested out of, change jobs beforehand if needs must.

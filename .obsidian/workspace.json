@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "d065532a80f47cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "032b84da2c2b5ac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4472757e3cf407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/20241209.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20241209"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35e9a41b2abd4f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8d256d3f2593cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c6f2d26f9bcdc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b37ea8c0f03b0bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa4595b22f61cf82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "right": {
+    "id": "d8848b1801a041bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e30a19ea8e17e90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d7d1d1ec53723d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/20241209.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20241209"
+            }
+          },
+          {
+            "id": "0392ced1b5f21c67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/20241209.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20241209"
+            }
+          },
+          {
+            "id": "f153f223d512dac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ce49bb670b4cff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "atoms/Anime (Serel).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Anime (Serel)"
+            }
+          },
+          {
+            "id": "f2e61a7618435025",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6966318622ddded7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0f2bb2b4637d3a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9953a6c574de2b3f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c4472757e3cf407",
+  "lastOpenFiles": [
+    "journal/2025年01月の中旬.md",
+    "journal/2025年02月の中旬.md",
+    "journal/2025年02月の上旬.md",
+    "journal/2025年01月の下旬.md",
+    "journal/Unemployment Saga (２月下旬から３月下旬へ).md",
+    "journal/AaR Saga (2025年04月上旬 ).md",
+    "journal/AaR Saga (2025年04月中旬).md",
+    "journal/2025年05月の上旬.md",
+    "journal/2025年05月の中旬.md",
+    "journal/2025年05月の下旬.md",
+    "atoms/food.md",
+    "atoms/ikusamegamizero.md",
+    "atoms/20250117.md",
+    "atoms/index.md",
+    "atoms/Quartz.md",
+    "readme.md.md",
+    "journal/Redactions.md",
+    "media/niceshirt.webp",
+    "services.md",
+    "index.md",
+    "vratnik.md",
+    "writing/vaargnign/Outline.md",
+    "Untitled.canvas",
+    "writing/fragments/Iacobussaga I (B1).md",
+    "media/wildshotas.webp",
+    "media/haruyuki.webp",
+    "writing/vaargnign/characters/Jacques.md",
+    "writing/fragments/Love Coming Down From the Stars.md",
+    "writing/fragments/Flowers.md",
+    "writing/fragments/index.md",
+    "media/Pasted image 20250129032409.png",
+    "writing/vaargnign/characters",
+    "media/Pasted image 20241230235502.png",
+    "media/Pasted image 20241230235531.png",
+    "media",
+    "Pasted image 20241230235424.png",
+    "clippings"
+  ]
+}

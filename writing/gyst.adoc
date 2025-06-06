@@ -1,0 +1,47 @@
+= Get Your Shit Together
+Vratnik (vratnik@nowhere)
+petrichor.moe
+:doctype: book
+:toc: left
+:toclevels: 5
+:icons: font
+:stem: latexmath
+:stylesheet: ../stylesheets/dark.css
+:quick-uri: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+==  Money
+
+=== Upcoming Credits (Money flowing out?)
+
+- Car insurance: -120
+- Server Bill: -40
+- Debt to mate (due Oct 10): -100
+- Line of credit with bank: -50
+- Domain name: -20
+- Remaining Car Note: -600
+
+=== Upcoming Debits (Money flowing in?)
+
+- Income: +2500
+- Magic Cards: ????, maybe ~$60
+- Loan from NoNickname: +150
+
+== Shit that Needs Doing
+
+=== Immediate Future (beginning of Autumn)
+
+- Hollow out my car and set up my bed in it (probably doing this before 10/9 is over)
+- Submit change of address to USPS
+- Request IRS transcripts to new address, follow up with jdstroy after I receive them (figure out if it can be done digitally)
+- Update my address on my Driver's License
+- Do jdstroy's bank bonii
+    - [Schwab](https://www.schwab.com/investing-starter-kit), free $101 for a $50 deposit
+    - Truist (update with details)
+
+=== Near-distant Future (Late Autumn, Early Winter)
+
+- See a fucking optometrist and get new glasses
+- Get back on Delta's dental insurance and see a dentist
+- Look into health insurance when open enrollment happens
+
+
