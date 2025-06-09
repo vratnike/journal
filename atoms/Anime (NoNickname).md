@@ -1,7 +1,7 @@
 #### In Progress
 
 - Kusuriya no Hitorigoto
-- Okitsura
+- Witch Watch
 
 #### Backlog
 
@@ -40,5 +40,6 @@
 - Jijou wa Shiranai
 - Mellowlink
 - Ochikobore Fruit Tart
+- Okitsura
 - How many kilos are the dumbbells you lift
 - The Climbing Anime that was surprisingly good

@@ -1,10 +1,10 @@
 #### In Progress
 
-- Cardcaptor Sakura (S02E12)
 - Inuyasha
 - Kimi to Idol Precure
 - Yandere shotacon Elf (priority)
-- Unbreakable Machine Doll
+- Chobits
+- Gundam 0079 movies (1/3)
 
 > [!NOTE] Note
 > Only 1-2 series that are 40+ episodes can be in progress at a time
@@ -27,6 +27,9 @@
 - ３月のライオン S1
 - Blade Dance (rewatch)
 - Bastard (S1 and S2 of the remake)
+- Cardcaptor Sakura
+	- The original TV anime, we haven't seen the movies or anything else yet.
+- Unbreakable Machine Doll
 - Elves
 	- Nihon e Youkoso Elf-san
 	- Edomae Elf

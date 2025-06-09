@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "032b84da2c2b5ac1",
+        "id": "31c8a4db6fa32173",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4472757e3cf407",
+            "id": "313c57c51ca3f0c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "New tab"
             }
           }
         ]
@@ -209,8 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8c6f2d26f9bcdc8",
+  "active": "313c57c51ca3f0c4",
   "lastOpenFiles": [
+    "atoms/Anime (Serel).md",
+    "atoms/Anime (NoNickname).md",
+    "readme.md",
     "journal/20241209.md",
     "journal/2025年01月の中旬.md",
     "journal/2025年02月の中旬.md",
@@ -227,7 +226,6 @@
     "atoms/20250117.md",
     "atoms/index.md",
     "atoms/Quartz.md",
-    "readme.md",
     "journal/Redactions.md",
     "media/niceshirt.webp",
     "services.md",
@@ -239,8 +237,6 @@
     "media/wildshotas.webp",
     "media/haruyuki.webp",
     "writing/vaargnign/characters/Jacques.md",
-    "writing/fragments/Love Coming Down From the Stars.md",
-    "writing/fragments/Flowers.md",
     "media/Pasted image 20250129032409.png",
     "writing/vaargnign/characters",
     "media/Pasted image 20241230235502.png",
