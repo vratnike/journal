@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31c8a4db6fa32173",
+        "id": "a92f12553c23acc4",
         "type": "tabs",
         "children": [
           {
-            "id": "313c57c51ca3f0c4",
+            "id": "ce507ee29ca5ea64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "atoms/GRINDE Mapping (Mindmapping).md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GRINDE Mapping (Mindmapping)"
             }
           }
         ]
@@ -202,13 +206,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "313c57c51ca3f0c4",
+  "active": "ce507ee29ca5ea64",
   "lastOpenFiles": [
-    "atoms/Anime (Serel).md",
-    "atoms/Anime (NoNickname).md",
+    "atoms/GRINDE Mapping (Mindmapping).md",
+    "media/Pasted image 20250609212707.png",
+    "lists/Anime (Serel).md",
+    "lists",
+    "lists/Anime (NoNickname).md",
+    "Excalidraw/Drawing 2025-06-09 18.36.01.excalidraw.md",
+    "Excalidraw",
     "readme.md",
     "journal/20241209.md",
     "journal/2025年01月の中旬.md",
@@ -231,12 +241,9 @@
     "services.md",
     "index.md",
     "vratnik.md",
-    "writing/vaargnign/Outline.md",
     "Untitled.canvas",
-    "writing/fragments/Iacobussaga I (B1).md",
     "media/wildshotas.webp",
     "media/haruyuki.webp",
-    "writing/vaargnign/characters/Jacques.md",
     "media/Pasted image 20250129032409.png",
     "writing/vaargnign/characters",
     "media/Pasted image 20241230235502.png",
