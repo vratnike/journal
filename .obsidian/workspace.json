@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a92f12553c23acc4",
+        "id": "f476a7dd8fff31ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ce507ee29ca5ea64",
+            "id": "6f55f22e05d058df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms/GRINDE Mapping (Mindmapping).md",
-                "mode": "preview",
-                "source": false
+                "file": "journal/index.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "GRINDE Mapping (Mindmapping)"
+              "title": "index"
             }
           }
         ]
@@ -155,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -165,8 +165,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -175,8 +175,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -185,8 +185,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -199,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,31 +207,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce507ee29ca5ea64",
+  "active": "6f55f22e05d058df",
   "lastOpenFiles": [
+    "journal/Unemployment Saga (２月下旬から３月下旬へ).md",
+    "journal/2025年05月の下旬.md",
+    "journal/20241230.md",
+    "journal/20241209.md",
+    "lists/Anime (NoNickname).md",
+    "lists/Anime (Serel).md",
     "atoms/GRINDE Mapping (Mindmapping).md",
     "media/Pasted image 20250609212707.png",
-    "lists/Anime (Serel).md",
     "lists",
-    "lists/Anime (NoNickname).md",
     "Excalidraw/Drawing 2025-06-09 18.36.01.excalidraw.md",
     "Excalidraw",
     "readme.md",
-    "journal/20241209.md",
     "journal/2025年01月の中旬.md",
     "journal/2025年02月の中旬.md",
     "journal/2025年02月の上旬.md",
     "journal/2025年01月の下旬.md",
-    "journal/Unemployment Saga (２月下旬から３月下旬へ).md",
     "journal/AaR Saga (2025年04月上旬 ).md",
     "journal/AaR Saga (2025年04月中旬).md",
     "journal/2025年05月の上旬.md",
     "journal/2025年05月の中旬.md",
-    "journal/2025年05月の下旬.md",
     "atoms/food.md",
     "atoms/ikusamegamizero.md",
     "atoms/20250117.md",

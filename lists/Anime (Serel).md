@@ -2,18 +2,17 @@
 
 - Inuyasha
 - Kimi to Idol Precure
-- Yandere shotacon Elf (priority)
-- Chobits
-- Gundam 0079 movies (1/3)
+- Zeta Gundam
+- Katanagatari
+- Buffy the Vampire Slayer
+- Star Trek: TNG
 
 > [!NOTE] Note
-> Only 1-2 series that are 40+ episodes can be in progress at a time
+> Only 1-2 series that are 40+ episodes can be in progress at a time (we kinda ignore this rule all the time)
 
 #### Backlog
 
-- New PSG (priority)
-- New Negima (?)
-- Chobits
+- New Negima
 - Hokuto no Ken
 - Gegege no Kitarou
 - Everything else Takahashi Rumiko has done
@@ -23,6 +22,12 @@
 #### Complete
 
 - Kakumei Shoujo Utena
+- Gundam
+	- 0079 Movies
+	- War in the Pocket
+	- 08th MS Team
+- New PSG
+- Chobits
 - GochiUsa S1, S2, OVA
 - ３月のライオン S1
 - Blade Dance (rewatch)
@@ -36,6 +41,7 @@
 	- Maou 2099
 	- IseMaou
 	- Beheneko
+	- Yandere Shotacon Elf
 - Rozen Maiden (all of it)
 - Precure
 	- Wonderful Precure
