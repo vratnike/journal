@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f476a7dd8fff31ea",
+        "id": "4c382fafae255eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "6f55f22e05d058df",
+            "id": "1ffda154e7f800fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "journal/index.md",
-                "mode": "source",
-                "source": true
+                "file": "lists/Anime (Serel) (Watchlog).canvas",
+                "viewState": {
+                  "x": -100.39273714552758,
+                  "y": 773.1234375000001,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-layout-dashboard",
+              "title": "Anime (Serel) (Watchlog)"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/20241209.md",
+                "file": "lists/Anime (Serel) (Watchlog).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20241209"
+              "title": "Backlinks for Anime (Serel) (Watchlog)"
             }
           },
           {
@@ -189,12 +192,11 @@
               "title": "git-history-view"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,18 +212,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f55f22e05d058df",
+  "active": "1ffda154e7f800fe",
   "lastOpenFiles": [
+    "media/1772511797_grim.webp",
+    "lists/Anime (Serel).md",
+    "lists/Anime (Serel) (Watchlog).canvas",
+    "media/1768885295_grim.webp",
+    "media/1768279703_grim.webp",
+    "media/1769499560_grim.webp",
+    "media/1770092600_grim.webp",
+    "media/1771295072_grim.webp",
+    "media/1771304405_grim.webp",
+    "Excalidraw/Drawing 2025-06-09 18.36.01.excalidraw.md",
+    "clippings/【Ｎ０文法】～あぐねる  毎日のんびり日本語教師.md",
+    "writing/vaargnign/pilotv1.md",
+    "writing/vaargnign/pilotv2.md",
+    "lists/Anime (NoNickname).md",
+    "lists/Essay Topics.md",
+    "journal/index.md",
     "journal/Unemployment Saga (２月下旬から３月下旬へ).md",
     "journal/2025年05月の下旬.md",
     "journal/20241230.md",
     "journal/20241209.md",
-    "lists/Anime (NoNickname).md",
-    "lists/Anime (Serel).md",
     "atoms/GRINDE Mapping (Mindmapping).md",
     "media/Pasted image 20250609212707.png",
     "lists",
-    "Excalidraw/Drawing 2025-06-09 18.36.01.excalidraw.md",
     "Excalidraw",
     "readme.md",
     "journal/2025年01月の中旬.md",
@@ -235,22 +250,12 @@
     "atoms/food.md",
     "atoms/ikusamegamizero.md",
     "atoms/20250117.md",
-    "atoms/index.md",
-    "atoms/Quartz.md",
-    "journal/Redactions.md",
     "media/niceshirt.webp",
-    "services.md",
-    "index.md",
-    "vratnik.md",
     "Untitled.canvas",
     "media/wildshotas.webp",
     "media/haruyuki.webp",
-    "media/Pasted image 20250129032409.png",
     "writing/vaargnign/characters",
-    "media/Pasted image 20241230235502.png",
-    "media/Pasted image 20241230235531.png",
     "media",
-    "Pasted image 20241230235424.png",
     "clippings"
   ]
 }

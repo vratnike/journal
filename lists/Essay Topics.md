@@ -1,0 +1,33 @@
+- Introduction:
+	- Humans:
+		- The common rabble don't really know how to evaluate trustworthy resources anymore and the effects of this have been extremely deleterious.
+			- Who the fuck am I, and why should you bother listening to me?
+		- How do we distinguish between people who have depth to their character (pneumatics) vs people who are merely automata who resemble humans (hylics)
+		- How does the contemporary model of neurodivergent vs neurotypical map to the idea of pneumatics (vs psychics) vs hylics.
+		- How do we bridge the gap between these dispirate groups? 
+		- Why are Carnists (and Conservatives in the abstract) so anti-vegetarian?
+		- How do we deal with the cognitive bias in which people cling desperately to their defaults instead of subjecting their views to rigour. Is it worth even trying to deprogram people from their defaults?
+			- What's up with people's love of shitting on "acceptable targets" (namely, the homeless and otherwise disenfranchised, addicts, those suffering from mental health issues, homosexuals, paedophiles, transgender folks, etc.). Can we safely put the idea of an "acceptable target" to rest?
+		- Where the fuck did the Puriteens come from? Why are Zoomers so puritanical
+		- Why are most Westoid "hot-button issues" so stupid?
+		- Secularists and other sensible people need to stop making concessions to Christians about Christ, and need to stop posturing as people who "follow the text" better than Christians. If one were to actually sit down and study the parables, you would find that the moral teachings of Jesus were actually incredibly reprehensible and it's only natural that we've found ourself overwhelmed with Christofascists ("Christian Nationalists")
+			- How exactly does the worldview espoused by the Judeo-Christian texts lend itself to Capitalism and Fascism?
+		- What's up with the age of consent and why are Puriteens and Conservative Christfags so hysterical about it? The bible doesn't say anything about fetishizing hags, yet Christians will attack Muslims for their profit marrying a ripe girl. 
+- Friendship:
+	- Not everyone is your friend, and that's a good thing.
+	- Detatchment is the secret sauce to staying sane and being a more desirable friend.
+		- Why is the dharma so particularly difficult for normies to grasp compared to more insidious things?
+	- Is there a historical precedent for a distinction between different types of human relationships, i.e; acquaintanceship -> buddies/mates -> actual friends
+- Language: 
+	- Language is the house of being, but a monolingual diet is imbalanced. 
+		- Fuck monolinguals
+	- When is it beneficial/detrimental to have multiple words for a single idea?
+	- Language learning is not only a good hobby to have, but it's necessary in order to free yourself from whichever hegemon subjugated your parents.
+	- Essays (including mini-essays) are a good thing
+- Ethics, Community:
+	- Introducing a moral framework focused on evaluating behaviour/conduct using the model of prosocial vs antisocial.
+	- Prosocial is not eusocial; we are not insects and it's imperative that we respect the dignity of the individual. 
+	- Words vs deeds, espousing a belief that's not substantiated by praxis is meaningless. 
+		- How do we deal with Shitlibs (performative leftists) and Libertarians (people who are supposedly "pro freedom," but in reality only want to protect the freedoms of megacorps through advanced bootlicking) accordingly?
+	- Time management is necessary in order to guarantee that you have time to be there for yourself and to attend to your personal needs, as well as to have time for your community.
+	- Introducing my flavour of anarcho-syndicalism. If we can't count on states to help us with the redistribution of wealth, we have to start by pooling our resources and doing it ourselves.

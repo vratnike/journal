@@ -1,9 +1,10 @@
 #### In Progress
 
+- Meitantei Precure
+- Goumon no Jikan 2
+- Jingai Kyoushitsu
+- Aura Battler Dunbine
 - Inuyasha
-- Kimi to Idol Precure
-- Zeta Gundam
-- Katanagatari
 - Buffy the Vampire Slayer
 - Star Trek: TNG
 
@@ -22,10 +23,15 @@
 #### Complete
 
 - Kakumei Shoujo Utena
+- Katanagatari
 - Gundam
-	- 0079 Movies
-	- War in the Pocket
-	- 08th MS Team
+	- UC Timeline
+		- Mainline
+			- 0079 Movies
+			- Zeta Gundam
+		- OVAs
+			- War in the Pocket
+			- 08th MS Team
 - New PSG
 - Chobits
 - GochiUsa S1, S2, OVA
@@ -47,3 +53,4 @@
 	- Wonderful Precure
 	- Hirogaru Sky Precure
 	- Star Twinkle Precure
+	- Kimi to Idol Precure

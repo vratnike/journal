@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"db26de271475005b","type":"file","file":"media/1768279703_grim.webp","x":-340,"y":240,"width":400,"height":103},
+		{"id":"7cfe00995cc0ac6a","type":"file","file":"media/1769499560_grim.webp","x":-340,"y":600,"width":399,"height":89},
+		{"id":"2d91204e8fbbd7dd","type":"file","file":"media/1770092600_grim.webp","x":-340,"y":720,"width":400,"height":130},
+		{"id":"b84de3bfcd218738","type":"text","text":"Meitantei Precure! 02\nGoumon no Jikan 2 05\nJingai Kyoushitsu 05\nDunbine 25-26\nInuyasha 131-132\nBuffy S05E13\nStar Trek: TNG S02E02","x":-340,"y":880,"width":400,"height":200},
+		{"id":"2cf0f76f16714769","type":"file","file":"media/1771304405_grim.webp","x":-340,"y":1100,"width":400,"height":82},
+		{"id":"2103befa8e04b7b3","type":"text","text":"Meitantei Precure! 04\nGoumon no Jikan 2 07\nJingai Kyoushitsu 07\nDunbine 29-30\nInuyasha 135-136\nBuffy S05E15\nStar Trek: TNG S02E04","x":-340,"y":1200,"width":400,"height":200},
+		{"id":"63008c6b6306a259","type":"text","text":"Kimi to Idol Precure 48\nGoumon no Jikan 2 02\nJingai Kyoushitsu 02\nZeta Gundam 46-47\nDunbine 19-20\nInuyasha 127-128\nStar Trek: TNG S01E24\nBuffy S05E09","x":-340,"y":360,"width":400,"height":200},
+		{"id":"b79a0ee10f62d5a8","x":-341,"y":1420,"width":400,"height":81,"type":"file","file":"media/1772511797_grim.webp"}
+	],
+	"edges":[
+		{"id":"700544502f4a5b1e","fromNode":"7cfe00995cc0ac6a","fromSide":"bottom","toNode":"2d91204e8fbbd7dd","toSide":"top"},
+		{"id":"f4991c6220f2befe","fromNode":"2d91204e8fbbd7dd","fromSide":"bottom","toNode":"b84de3bfcd218738","toSide":"top"},
+		{"id":"6f481636ac11916a","fromNode":"b84de3bfcd218738","fromSide":"bottom","toNode":"2cf0f76f16714769","toSide":"top"},
+		{"id":"4d38caa5733ef871","fromNode":"2cf0f76f16714769","fromSide":"bottom","toNode":"2103befa8e04b7b3","toSide":"top"},
+		{"id":"e1ee8b62b969f5a8","fromNode":"db26de271475005b","fromSide":"bottom","toNode":"63008c6b6306a259","toSide":"top"},
+		{"id":"c94949570a64a2ea","fromNode":"63008c6b6306a259","fromSide":"bottom","toNode":"7cfe00995cc0ac6a","toSide":"top"},
+		{"id":"3daa382f61d8f941","fromNode":"2103befa8e04b7b3","fromSide":"bottom","toNode":"b79a0ee10f62d5a8","toSide":"top"}
+	]
+}
