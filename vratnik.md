@@ -7,6 +7,8 @@ I am an amateur spec-fic author and an open mic regular. My primary work consist
 
 If you’re interested in learning more about me or following my career you're in the right place, as my [[journal/index|Journal]] is hosted here.
 
+I've begun compiling a list of [[My favourite things]]
+
 > [!info]- My interests
 >The things that I’m interested in or passionate about include:
 >

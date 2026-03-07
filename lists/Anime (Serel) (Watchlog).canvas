@@ -7,7 +7,7 @@
 		{"id":"2cf0f76f16714769","type":"file","file":"media/1771304405_grim.webp","x":-340,"y":1100,"width":400,"height":82},
 		{"id":"2103befa8e04b7b3","type":"text","text":"Meitantei Precure! 04\nGoumon no Jikan 2 07\nJingai Kyoushitsu 07\nDunbine 29-30\nInuyasha 135-136\nBuffy S05E15\nStar Trek: TNG S02E04","x":-340,"y":1200,"width":400,"height":200},
 		{"id":"63008c6b6306a259","type":"text","text":"Kimi to Idol Precure 48\nGoumon no Jikan 2 02\nJingai Kyoushitsu 02\nZeta Gundam 46-47\nDunbine 19-20\nInuyasha 127-128\nStar Trek: TNG S01E24\nBuffy S05E09","x":-340,"y":360,"width":400,"height":200},
-		{"id":"b79a0ee10f62d5a8","x":-341,"y":1420,"width":400,"height":81,"type":"file","file":"media/1772511797_grim.webp"}
+		{"id":"b79a0ee10f62d5a8","type":"file","file":"media/1772511797_grim.webp","x":-341,"y":1420,"width":400,"height":81}
 	],
 	"edges":[
 		{"id":"700544502f4a5b1e","fromNode":"7cfe00995cc0ac6a","fromSide":"bottom","toNode":"2d91204e8fbbd7dd","toSide":"top"},
